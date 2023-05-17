@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Repository\" />
+    <None Remove="Dao\" />
+    <None Remove="Mapping\" />
+    <None Remove="Model\" />
+    <None Remove="Interface\" />
+    <None Remove="Abstract\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
+    <Folder Include="Dao\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Model\" />
+    <Folder Include="Interface\" />
+    <Folder Include="Abstract\" />
+  </ItemGroup>
+</Project>

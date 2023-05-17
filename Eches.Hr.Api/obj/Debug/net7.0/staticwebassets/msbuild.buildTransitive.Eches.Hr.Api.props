@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Eches.Hr.Api.props" />
+</Project>

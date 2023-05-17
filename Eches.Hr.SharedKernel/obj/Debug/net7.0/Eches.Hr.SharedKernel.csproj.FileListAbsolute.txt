@@ -1,0 +1,12 @@
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/bin/Debug/net7.0/Eches.Hr.SharedKernel.deps.json
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/bin/Debug/net7.0/Eches.Hr.SharedKernel.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/bin/Debug/net7.0/Eches.Hr.SharedKernel.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/Eches.Hr.SharedKernel.csproj.AssemblyReference.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/Eches.Hr.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/Eches.Hr.SharedKernel.AssemblyInfoInputs.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/Eches.Hr.SharedKernel.AssemblyInfo.cs
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/Eches.Hr.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/Eches.Hr.SharedKernel.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/refint/Eches.Hr.SharedKernel.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/Eches.Hr.SharedKernel.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.SharedKernel/obj/Debug/net7.0/ref/Eches.Hr.SharedKernel.dll

@@ -1,0 +1,12 @@
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/bin/Debug/net7.0/Eches.Hr.Entity.deps.json
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/bin/Debug/net7.0/Eches.Hr.Entity.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/bin/Debug/net7.0/Eches.Hr.Entity.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/Eches.Hr.Entity.csproj.AssemblyReference.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/Eches.Hr.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/Eches.Hr.Entity.AssemblyInfoInputs.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/Eches.Hr.Entity.AssemblyInfo.cs
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/Eches.Hr.Entity.csproj.CoreCompileInputs.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/Eches.Hr.Entity.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/refint/Eches.Hr.Entity.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/Eches.Hr.Entity.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Entity/obj/Debug/net7.0/ref/Eches.Hr.Entity.dll

@@ -1,0 +1,12 @@
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/bin/Debug/net7.0/Eches.Hr.Infrastructure.deps.json
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/bin/Debug/net7.0/Eches.Hr.Infrastructure.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/bin/Debug/net7.0/Eches.Hr.Infrastructure.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/Eches.Hr.Infrastructure.csproj.AssemblyReference.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/Eches.Hr.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/Eches.Hr.Infrastructure.AssemblyInfoInputs.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/Eches.Hr.Infrastructure.AssemblyInfo.cs
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/Eches.Hr.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/Eches.Hr.Infrastructure.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/refint/Eches.Hr.Infrastructure.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/Eches.Hr.Infrastructure.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Infrastructure/obj/Debug/net7.0/ref/Eches.Hr.Infrastructure.dll
