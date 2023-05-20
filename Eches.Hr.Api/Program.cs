@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Eches.Hr.Infrastructure.Dao;
+using Eches.Hr.Core.Setting;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,14 +30,16 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Adding Authentication - JWT
+builder.Services.Configure<TokenSetting>(
+    builder.Configuration.GetSection("TokenSetting"));
+
 builder.Services.AddAuthentication(option => {
     option.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     option.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 }).AddJwtBearer(option => {
     option.RequireHttpsMetadata = false;
     option.SaveToken = true;
-    option.TokenValidationParameters = new TokenValidationParameters
-    {
+    option.TokenValidationParameters = new TokenValidationParameters{
         ValidateIssuer = true,
         ValidateAudience = true,
         ValidateIssuerSigningKey = true,
@@ -63,7 +66,7 @@ app.UseCors("corsapp");
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
-
+app.UseMiddleware<ExceptionMiddleware>();
 app.MapControllers();
 
 app.Run();

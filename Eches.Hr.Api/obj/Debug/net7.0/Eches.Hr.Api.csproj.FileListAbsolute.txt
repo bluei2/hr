@@ -41,6 +41,7 @@
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
@@ -93,8 +94,10 @@
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Eches.Hr.Core.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Eches.Hr.Infrastructure.dll
-/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Eches.Hr.Infrastructure.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Eches.Hr.SharedKernel.dll
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Eches.Hr.Core.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Eches.Hr.Infrastructure.pdb
+/Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/bin/Debug/net7.0/Eches.Hr.SharedKernel.pdb
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/obj/Debug/net7.0/Eches.Hr.Api.csproj.AssemblyReference.cache
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/obj/Debug/net7.0/Eches.Hr.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/raffyipac/Eches Consultancy/Eches.Hr/Eches.Hr.Api/obj/Debug/net7.0/Eches.Hr.Api.AssemblyInfoInputs.cache

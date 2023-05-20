@@ -6,6 +6,7 @@ namespace Eches.Hr.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //[MiddlewareFilter(typeof(ExceptionMiddleware))]
     public class CalendarController : ControllerBase
     {
         private readonly ICalendarService _calendarService;
@@ -14,6 +15,7 @@ namespace Eches.Hr.Api.Controllers
         {
             _calendarService = calendarService;
         }
+
 
         [HttpPost("Create")]
         public async Task<IActionResult> CreateAsync(CalendarModel model)
@@ -51,6 +53,12 @@ namespace Eches.Hr.Api.Controllers
         public async Task<CalendarModel> GetAsync(int? id)
         {
             return await _calendarService.GetAsync(id);
+        }
+
+        [HttpDelete("Delete")]
+        public async Task DeleteAsync(int? id)
+        {
+            await _calendarService.DeleteAsync(id);
         }
     }
 }

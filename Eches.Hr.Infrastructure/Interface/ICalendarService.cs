@@ -8,8 +8,8 @@ namespace Eches.Hr.Infrastructure.Interface
 	{
         Task                        CreateAsync(CalendarModel model);
         Task                        UpdateAsync(CalendarModel model);
-        Task<CalendarModel>          GetAsync(int? id);
-        Task<List<CalendarModel>>    GetAllAsync();
+        Task<CalendarModel>         GetAsync(int? id);
+        Task<List<CalendarModel>>   GetAllAsync();
         Task                        DeleteAsync(int? id);
     }       
 }

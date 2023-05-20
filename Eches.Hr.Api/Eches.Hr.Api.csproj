@@ -23,10 +23,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Eches.Hr.Infrastructure\Eches.Hr.Infrastructure.csproj">
+    <ProjectReference Include="..\Eches.Hr.Core\Eches.Hr.Core.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
-    <ProjectReference Include="..\Eches.Hr.Core\Eches.Hr.Core.csproj">
+    <ProjectReference Include="..\Eches.Hr.Infrastructure\Eches.Hr.Infrastructure.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
   </ItemGroup>
