@@ -20,7 +20,7 @@ namespace Eches.Hr.Infrastructure.Abstract
             var repository = model.ToRepository();
 
             _context.Calendars.Add(repository);
-            await _context.SaveChangesAsync(); 
+            await _context.SaveChangesAsync();
         }
 
         public async Task UpdateAsync(CalendarModel model)

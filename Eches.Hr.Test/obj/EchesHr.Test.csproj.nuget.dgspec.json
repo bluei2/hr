@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Test/EchesHr.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Data/EchesHr.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Data/EchesHr.Data.csproj",
+        "projectName": "EchesHr.Data",
+        "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Data/EchesHr.Data.csproj",
+        "packagesPath": "/Users/raffyipac/.nuget/packages/",
+        "outputPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raffyipac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Domain/EchesHr.Domain.csproj": {
+                "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Domain/EchesHr.Domain.csproj"
+              },
+              "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/EchesHr.SharedKernal.csproj": {
+                "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/EchesHr.SharedKernal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Domain/EchesHr.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Domain/EchesHr.Domain.csproj",
+        "projectName": "EchesHr.Domain",
+        "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Domain/EchesHr.Domain.csproj",
+        "packagesPath": "/Users/raffyipac/.nuget/packages/",
+        "outputPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raffyipac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/EchesHr.SharedKernal.csproj": {
+                "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/EchesHr.SharedKernal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/EchesHr.SharedKernal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/EchesHr.SharedKernal.csproj",
+        "projectName": "EchesHr.SharedKernal",
+        "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/EchesHr.SharedKernal.csproj",
+        "packagesPath": "/Users/raffyipac/.nuget/packages/",
+        "outputPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.SharedKernal/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raffyipac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Test/EchesHr.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Test/EchesHr.Test.csproj",
+        "projectName": "EchesHr.Test",
+        "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Test/EchesHr.Test.csproj",
+        "packagesPath": "/Users/raffyipac/.nuget/packages/",
+        "outputPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raffyipac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Data/EchesHr.Data.csproj": {
+                "projectPath": "/Users/raffyipac/Eches Consultancy/EchesHr/EchesHr.Data/EchesHr.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "Xunit.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.7.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

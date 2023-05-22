@@ -10,7 +10,7 @@ namespace Eches.Hr.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    [MiddlewareFilter(typeof(ExceptionMiddleware))]
+    [MiddlewareFilter(typeof(ExceptionHandlerMiddleware))]
     public class AuthenticationController : ControllerBase
     {
         private readonly TokenSetting _tokenSetting;

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eches.Hr.SharedKernel", "Ec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eches.Hr.Api", "Eches.Hr.Api\Eches.Hr.Api.csproj", "{19933892-4C84-443B-BE85-8F97D2C14834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eches.Hr.Test", "Eches.Hr.Test\Eches.Hr.Test.csproj", "{179FA848-44F7-43F8-97EB-5F5912555038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{19933892-4C84-443B-BE85-8F97D2C14834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19933892-4C84-443B-BE85-8F97D2C14834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19933892-4C84-443B-BE85-8F97D2C14834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179FA848-44F7-43F8-97EB-5F5912555038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179FA848-44F7-43F8-97EB-5F5912555038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179FA848-44F7-43F8-97EB-5F5912555038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179FA848-44F7-43F8-97EB-5F5912555038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

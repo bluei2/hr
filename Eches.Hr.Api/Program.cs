@@ -6,6 +6,8 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Eches.Hr.Infrastructure.Dao;
 using Eches.Hr.Core.Setting;
+using Eches.Hr.Core;
+using Eches.Hr.Infrastructure.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -66,7 +68,7 @@ app.UseCors("corsapp");
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
-app.UseMiddleware<ExceptionMiddleware>();
+app.UseMiddleware<ExceptionHandlerMiddleware>();
 app.MapControllers();
 
 app.Run();

@@ -1,5 +1,4 @@
-﻿using System;
-namespace Eches.Hr.Core.Setting
+﻿namespace Eches.Hr.Core.Setting
 {
     public class TokenSetting
     {
@@ -10,4 +9,5 @@ namespace Eches.Hr.Core.Setting
         public double RefreshExpiration { get; set; }
     }
 }
+
 
